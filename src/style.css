@@ -50,15 +50,16 @@ table {
   margin-top: 50px;
 }
 
-td, th {
-  border: 1px solid #dddddd;
+td,
+th {
+  border: 1px solid #ddd;
   text-align: center;
   padding: 8px;
 }
 
 tr:nth-child(even) {
-  background-color: #dddddd;
-  border: 1px solid #dddddd;
+  background-color: #ddd;
+  border: 1px solid #ddd;
 }
 
 input {
@@ -68,6 +69,6 @@ input {
 }
 
 .submit {
-  margin-left: 80%; 
+  margin-left: 80%;
   margin-top: 20px;
 }
